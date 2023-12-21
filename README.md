@@ -34,4 +34,4 @@ the concepts of collaborative filtering and content-based recommendation.
 
 - Dataset Link: https://www.kaggle.com/datasets/dev0914sharma/dataset
 
-- Solution Link: 
+- Solution Link: https://github.com/ansariparvej/Coding_Samurai_Machine_Learning_Virtual_Internship/tree/main/Task_2%3A%20Movie%20Recommendation%20System
